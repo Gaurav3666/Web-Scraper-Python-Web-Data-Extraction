@@ -665,6 +665,6 @@ The project documentation is provided separately with this repository.
 
 **Gaurav**
 
-BCA Student — Chandigarh University
+Intern - Nestor Bird
 
 **Project:** Dynamic Website Scraper & CRUD API
