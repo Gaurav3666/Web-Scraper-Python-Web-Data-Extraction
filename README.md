@@ -661,8 +661,7 @@ The project documentation is provided separately with this repository.
 
 ---
 
-Loom Video Link - https://drive.google.com/file/d/15rGYbFCH7Ls3Lz4EMqQy9-LY4t9szDkJ/view?usp=drivesdk
-
+Loom Video Link - https://drive.google.com/file/d/1dmY3njhoj-KjacGVlNivX47ERFr5aK8L/view?usp=drivesdk
 ## Author
 
 **Gaurav**
